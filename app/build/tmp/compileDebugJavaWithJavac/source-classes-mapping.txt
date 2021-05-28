@@ -1,0 +1,7 @@
+com/murraycole/appusagesample/BuildConfig.java
+ com.murraycole.appusagesample.BuildConfig
+com/murraycole/appusagesample/MainActivity.java
+ com.murraycole.appusagesample.MainActivity
+ com.murraycole.appusagesample.MainActivity$1
+com/murraycole/appusagesample/UStats.java
+ com.murraycole.appusagesample.UStats

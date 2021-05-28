@@ -1,0 +1,11 @@
+com.murraycole.appusagesample:style/AppTheme = 0x7f070000
+com.murraycole.appusagesample:string/hello_world = 0x7f060002
+com.murraycole.appusagesample:string/action_settings = 0x7f060000
+com.murraycole.appusagesample:menu/menu_main = 0x7f040000
+com.murraycole.appusagesample:layout/activity_main = 0x7f030000
+com.murraycole.appusagesample:dimen/activity_vertical_margin = 0x7f010001
+com.murraycole.appusagesample:id/stats_btn = 0x7f020001
+com.murraycole.appusagesample:string/app_name = 0x7f060001
+com.murraycole.appusagesample:id/action_settings = 0x7f020000
+com.murraycole.appusagesample:mipmap/ic_launcher = 0x7f050000
+com.murraycole.appusagesample:dimen/activity_horizontal_margin = 0x7f010000
